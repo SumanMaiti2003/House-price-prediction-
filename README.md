@@ -1,4 +1,4 @@
-### House Price Prediction Project Summary (≈300 Words)
+### House Price Prediction Project Summary 
 
 This project focuses on predicting house prices using Machine Learning techniques. The primary objective was to build a regression model that can estimate the price of a house based on various property-related features. Accurate house price prediction can help buyers, sellers, and real estate businesses make informed decisions.
 
